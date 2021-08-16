@@ -14,3 +14,26 @@ Optional: Calculate the break even-point
 
 **→ Goal: Recommend ideal locations for solar or wind parks**
 ___
+
+**Brainstorm**
+
+1. DataFrame: (Sönke)
+2. Solar-Model: (Sönke & Laura)
+  - Which x-variables for the model: 
+    - Solar: hours of sun
+    - How many hours of sunlight is needed for a solar power plant?
+3. Wind-Model: ()
+  - Which x-variables for the model:
+  - How many hours of wind is needed for a wind mill?    
+4. Map: (Gabriel + Lena)
+  - Map Expamples
+5. Beispiel-Datensatz: (Sönke?)
+6. Pitch/Presentation:
+  - Powerpoint: Introduction
+8. Ask TecLabs about presentation: (In Stand-Up on Sunday)
+9. Project-Structure for different modules:
+10. Setup Github structure: (Gabriel)
+  - Iusses:
+  - Cards on Kanban-Board
+
+Deadline Sunday:
