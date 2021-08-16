@@ -17,7 +17,7 @@ ___
 
 **Brainstorm**
 
-1. DataFrame:
+1. DataFrame: (Sönke)
 2. Solar-Model: (Sönke & Laura)
   - Which x-variables for the model: 
     - Solar: hours of sun
@@ -27,7 +27,7 @@ ___
   - How many hours of wind is needed for a wind mill?    
 4. Map: (Gabriel + Lena)
   - Map Expamples
-5. Beispiel-Datensatz:
+5. Beispiel-Datensatz: (Sönke?)
 6. Pitch/Presentation:
   - Powerpoint: Introduction
 8. Ask TecLabs about presentation: (In Stand-Up on Sunday)
