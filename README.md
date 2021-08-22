@@ -25,7 +25,7 @@ ___
     - Notebook for Data Preparation: http://tiny.cc/dataprep_tl
 3. Wind-Model: (Simon)
   - Which x-variables for the model:
-  - How many hours of wind is needed for a wind mill?    
+  - How many hours of wind is needed for a wind mill? 3m/s   
 4. Map: (Gabriel + Lena)
   - Map Expamples
 5. Beispiel-Datensatz: (Sönke?)
