@@ -22,9 +22,10 @@ ___
   - Which x-variables for the model: 
     - Solar: hours of sun
     - How many hours of sunlight is needed for a solar power plant?
-3. Wind-Model: ()
-  - Which x-variables for the model:
-  - How many hours of wind is needed for a wind mill?    
+    - Notebook for Data Preparation: http://tiny.cc/dataprep_tl
+3. Wind-Model: (Simon)
+  - Which x-variables for the model: average wind speed
+  - How many hours of wind is needed for a wind mill? 4-25m/s (14,4-90kmh)   
 4. Map: (Gabriel + Lena)
   - Map Expamples
 5. Beispiel-Datensatz: (Sönke?)
