@@ -81,6 +81,9 @@ Cutoff 0.6
 ![img_6.png](img_6.png)
 Cutoff 0.5
 
+![img_7.png](img_7.png)
+Cutoff 0,45
+
 ![img_5.png](img_5.png)
 Cutoff 0.4
 
