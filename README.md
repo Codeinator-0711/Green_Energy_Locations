@@ -75,6 +75,11 @@ In the following, we are going to describe our understanding of the business que
 
 
 **Map of potential windmills in Germany**
-![img_2.png](img_2.png)
+![img_2.png](img_2.png)   
+Cutoff 0.6
+![img_6.png](img_6.png)
+Cutoff 0.5
+![img_5.png](img_5.png)
+Cutoff 0.4
 
 **In comparioson: Map of existing windmills in Germany**
