@@ -4,16 +4,19 @@ ___
 💡  Potential solution: Analyze solar and wind data. Also consider infrastructure and legal requirements to create a map with optimal locations.
 ___
 
-**First Ideas:**
+**1. Idea and Goal:**
 
-Analyse wind and solar data
-Look at legal requirements as well as meterological data (wind speeds, sunlight hours, etc.) and consisting infrastructure (high voltage lines)
-Show these locations a map (Highlight the best locations with a colour-ranking)
-Optional: Calculate the amout energy that can be produced at a specific location
-Optional: Calculate the break even-point
+- Analyse wind and solar data
+- Look at legal requirements as well as meterological data (wind speeds, sunlight hours, etc.) and consisting infrastructure (high voltage lines)
+- Show these locations a map (Highlight the best locations with a colour-ranking)
+- Optional: Calculate the amout energy that can be produced at a specific location
+- Optional: Calculate the break even-point
 
 **→ Goal: Recommend ideal locations for solar or wind parks**
 ___
+
+**2. Methodological Approach:**
+
 
 **Brainstorm**
 
