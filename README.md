@@ -38,7 +38,7 @@ In the following, we are going to describe our understanding of the business que
 - Create a Dataframe, which contains relevant input variables for the machine learning model
 - Link to DataFrame einfügen
 
-### 2.2. Solar-Model: (Sönke & Laura)
+### 2.2. Solar-Model:
 - Which input-variables for the model: 
   - Solar: hours of sun
   - How many hours of sunlight is needed for a solar power plant?
@@ -49,7 +49,7 @@ In the following, we are going to describe our understanding of the business que
     - Bild einfügen von Boxplot welcher zeigt, welches Modell am Besten war?
     - Notebook for Data Preparation: (link in unserem Github Ornder einfügen)
   
-### 2.3. Wind-Model: (Simon)
+### 2.3. Wind-Model:
 - Which input-variables for the model: 
   - average wind speed
   - How many hours of wind is needed for a wind mill? 4-25m/s (14,4-90kmh) 
@@ -60,7 +60,7 @@ In the following, we are going to describe our understanding of the business que
   - Bild einfügen von Boxplot welcher zeigt, welches Modell am Besten war?
   - Notebook for Data Preparation: (link in unserem Github Ornder einfügen)
 
-### 2.4. Map: (Gabriel + Lena)
+### 2.4. Map:
 - Setup Map:
   - Plot a map of Germany 
   - Plot each location with latitude and longitude on the map
