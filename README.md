@@ -41,7 +41,7 @@ In the following, we are going to describe our understanding of the business que
 >    - (Beispiel) If the location is better than 60% of the other stations, it is defined as Suitable>- Notebook for Data Preparation: http://tiny.cc/dataprep_tl (link in unserem Github Ornder einfügen)
 - Train different Machine-learning models and fit them with the help of Hyperparametertuning and a cross-validation
     - Bild einfügen von Boxplot welcher zeigt, welches Modell am Besten war?
-    - Notebook for Data Preparation: (link in unserem Github Ornder einfügen)
+    - Notebook for Data Preparation: https://colab.research.google.com/
   
 ### 2.3. Wind-Model: (Sönke + Simon)
 - Which input-variables for the model: 
