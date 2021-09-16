@@ -41,7 +41,7 @@ In the following, we are going to describe our understanding of the business que
 >    - (Beispiel) If the location is better than 60% of the other stations, it is defined as Suitable>- Notebook for Data Preparation: http://tiny.cc/dataprep_tl (link in unserem Github Ornder einfügen)
 - Train different Machine-learning models and fit them with the help of Hyperparametertuning and a cross-validation
     - Bild einfügen von Boxplot welcher zeigt, welches Modell am Besten war?
-    - Notebook for Data Preparation: https://colab.research.google.com/
+    - Notebook for Data Preparation: code/solarmodel_means.ipynb
   
 ### 2.3. Wind-Model: (Sönke + Simon)
 - Which input-variables for the model: 
@@ -56,7 +56,7 @@ In the following, we are going to describe our understanding of the business que
   - -> compare accuracy of different models:
   -  logistic_regression_train shows the highest accuracy score we still chose to use the random_forest_train because log_reg led to a large number of negatives
   - [Bild einfügen welches zeigt, welches Modell am Besten war]
-  - Notebook for Data Preparation: (link in unserem Github Ornder einfügen)
+  - Notebook for Data Preparation: code/windmodel_deviations.ipynb
 
 ### 2.4. Map: (Gabriel + Lena)
 - Setup Map:
