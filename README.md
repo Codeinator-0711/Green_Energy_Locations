@@ -39,12 +39,12 @@ In the following, we are going to describe our understanding of the business que
 - Link to DataFrame einfügen
 
 ### 2.2. Solar-Model: (Sönke & Laura)
->  - Which input-variables for the model: 
->    - Solar: hours of sun
->    - How many hours of sunlight is needed for a solar power plant?
->  - What is the output-variable and how is it defined?
->    - Is the location suitable for photovoltaic?
->    - (Beispiel) If the location is better than 60% of the other stations, it is defined as Suitable>- Notebook for Data Preparation: http://tiny.cc/dataprep_tl (link in unserem Github Ornder einfügen)
+- Which input-variables for the model: 
+  - Solar: hours of sun
+  - How many hours of sunlight is needed for a solar power plant?
+- What is the output-variable and how is it defined?
+  - Is the location suitable for photovoltaic?
+  - (Beispiel) If the location is better than 60% of the other stations, it is defined as Suitable>- Notebook for Data Preparation: http://tiny.cc/dataprep_tl (link in unserem Github Ornder einfügen)
 - Train different Machine-learning models and fit them with the help of Hyperparametertuning and a cross-validation
     - Bild einfügen von Boxplot welcher zeigt, welches Modell am Besten war?
     - Notebook for Data Preparation: (link in unserem Github Ornder einfügen)
