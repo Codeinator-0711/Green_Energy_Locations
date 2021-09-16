@@ -69,9 +69,11 @@ In the following, we are going to describe our understanding of the business que
 # 3. Achievements:
 
 **Map of potential solar-plants in Germany**
+
 ![img_3.png](pictures/Maps/img_3.png)
 
 **In comparison: Map of existing solar-plants in Germany**
+
 ![Photovoltaik 2012.png](pictures/Maps/Comparison Maps/Photovoltaik 2012.png)
 
 **Map of potential windmills in Germany**
@@ -79,5 +81,7 @@ In the following, we are going to describe our understanding of the business que
 ![img_7.png](pictures/Maps/img_7.png)
 
 **In comparison: Map of existing windmills in Germany**
+
 ![800px-Windkraftanlagen_in_Deutschland.png)](pictures/Maps/Comparison Maps/800px-Windkraftanlagen_in_Deutschland.png)
+
 ![Wind_farms_in_Germany.png](pictures/Maps/Comparison Maps/Wind_farms_in_Germany.png)
