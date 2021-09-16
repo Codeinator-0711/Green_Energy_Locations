@@ -1,18 +1,12 @@
 # Green_Energy_Locations
 ___
-💭  **Idea:**
-
-It is unclear where the optimal locations for wind and solar energy are. For example this could be a problem for homeowners who plan to build a solar system.  
-
-💡  **Potential solution:** 
-
-Analyze solar and wind data. Also consider infrastructure and legal requirements to create a map with optimal locations.
-
+💭  Idea: It is unclear where the optimal locations for wind and solar energy are. For example this could be a problem for homeowners who plan to build a solar system.  
+💡  Potential solution: Analyze solar and wind data. Also consider infrastructure and legal requirements to create a map with optimal locations.
 ![img_4.png](pictures/Maps/title.png)
 ___
 
 
-## 1. Idea and Goal:
+## 1. Idea and Goal:**
 
 - Analyse wind and solar data
 - Look at legal requirements as well as meterological data (wind speeds, sunlight hours, etc.) and consisting infrastructure (high voltage lines)
@@ -38,29 +32,33 @@ In the following, we are going to describe our understanding of the business que
 - Create a Dataframe, which contains relevant input variables for the machine learning model
 - Link to DataFrame einfügen
 
-### 2.2. Solar-Model:
-- Which input-variables for the model: 
-  - Solar: hours of sun
-  - How many hours of sunlight is needed for a solar power plant?
-- What is the output-variable and how is it defined?
-  - Is the location suitable for photovoltaic?
-  - (Beispiel) If the location is better than 60% of the other stations, it is defined as Suitable>- Notebook for Data Preparation: http://tiny.cc/dataprep_tl (link in unserem Github Ornder einfügen)
+### 2.2. Solar-Model: (Sönke & Laura)
+>  - Which input-variables for the model: 
+>    - Solar: hours of sun
+>    - How many hours of sunlight is needed for a solar power plant?
+>  - What is the output-variable and how is it defined?
+>    - Is the location suitable for photovoltaic?
+>    - (Beispiel) If the location is better than 60% of the other stations, it is defined as Suitable>- Notebook for Data Preparation: http://tiny.cc/dataprep_tl (link in unserem Github Ornder einfügen)
 - Train different Machine-learning models and fit them with the help of Hyperparametertuning and a cross-validation
     - Bild einfügen von Boxplot welcher zeigt, welches Modell am Besten war?
     - Notebook for Data Preparation: (link in unserem Github Ornder einfügen)
   
-### 2.3. Wind-Model:
+### 2.3. Wind-Model: (Sönke + Simon)
 - Which input-variables for the model: 
-  - average wind speed
-  - How many hours of wind is needed for a wind mill? 4-25m/s (14,4-90kmh) 
+  - average wind speed 
 - What is the output-variable and how is it defined?
-  - Is the location suitable for a windmill?
-  - (Beispiel) If the location is better than 60% of the other stations, it is defined as Suitable
+  - Is the location suitable for a windmill? 
+  - If the mean windspeed of the location is higher than 60% of the other stations, it is defined as Suitable
 - Train different Machine-learning models and fit them with the help of Hyperparametertuning and a cross-validation
-  - Bild einfügen von Boxplot welcher zeigt, welches Modell am Besten war?
+  - How do we get the most accurate model? 
+  - Training the model with the standard deviation input variables results in the highest accuracy
+  - [ Bild einfügen, welches zeigt, dass das Training mit std zur höchsten accuracy führt ]
+  - -> compare accuracy of different models:
+  -  logistic_regression_train shows the highest accuracy score we still chose to use the random_forest_train because log_reg led to a large number of negatives
+  - [Bild einfügen welches zeigt, welches Modell am Besten war]
   - Notebook for Data Preparation: (link in unserem Github Ornder einfügen)
 
-### 2.4. Map:
+### 2.4. Map: (Gabriel + Lena)
 - Setup Map:
   - Plot a map of Germany 
   - Plot each location with latitude and longitude on the map
@@ -74,22 +72,20 @@ In the following, we are going to describe our understanding of the business que
   
 # 3. Achievements:
 
-### 3.1 Solar-Plants
+**Map of potential solar-plants in Germany**
 
-**Map of potential solar-plants in Germany** 
+![img_3.png](pictures/Maps/map_photovoltaics.png)
 
-![<img src="pictures/Maps/map_photovoltaics.png" width="200" height="100"/>](pictures/Maps/map_photovoltaics.png)
+**In comparison: Map of existing solar-plants in Germany**
 
-**Map of existing solar-plants in Germany**
+![](pictures/Maps/Germany_PVOUT_mid-size-map_156x220mm-300dpi_v20191205.png)
 
-![img.png](pictures/Maps/solar_power_in_germany.png)
-
-### 3.2 Windmills
-
-**Map of potential windmills in Germany** 
+**Map of potential windmills in Germany**
 
 ![img_7.png](pictures/Maps/map_windmills.png)
 
 **In comparison: Map of existing windmills in Germany**
+
+![800px-Windkraftanlagen_in_Deutschland.png)](pictures/Maps/800px-Windkraftanlagen_in_Deutschland.png)
 
 ![Wind_farms_in_Germany.png](pictures/Maps/Wind_farms_in_Germany.png)
