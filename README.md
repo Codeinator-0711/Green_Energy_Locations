@@ -2,7 +2,7 @@
 ___
 💭  Idea: It is unclear where the optimal locations for wind and solar energy are. For example this could be a problem for homeowners who plan to build a solar system.  
 💡  Potential solution: Analyze solar and wind data. Also consider infrastructure and legal requirements to create a map with optimal locations.
-![img_4.png](../img_4.png)
+![img_4.png](pictures/Maps/img_4.png)
 ___
 
 
@@ -70,18 +70,18 @@ In the following, we are going to describe our understanding of the business que
 
 **Map of potential solar-plants in Germany**
 
-![img_3.png](../img_3.png)
+![img_3.png](pictures/Maps/img_3.png)
 
 **In comparison: Map of existing solar-plants in Germany**
 
-![](Germany_PVOUT_mid-size-map_156x220mm-300dpi_v20191205.png)
+![](pictures/Maps/Comparison Maps/Germany_PVOUT_mid-size-map_156x220mm-300dpi_v20191205.png)
 
 **Map of potential windmills in Germany**
 
-![img_7.png](../img_7.png)
+![img_7.png](pictures/Maps/img_7.png)
 
 **In comparison: Map of existing windmills in Germany**
 
-![800px-Windkraftanlagen_in_Deutschland.png)](800px-Windkraftanlagen_in_Deutschland.png)
+![800px-Windkraftanlagen_in_Deutschland.png)](pictures/Maps/Comparison Maps/800px-Windkraftanlagen_in_Deutschland.png)
 
-![Wind_farms_in_Germany.png](Wind_farms_in_Germany.png)
+![Wind_farms_in_Germany.png](pictures/Maps/Comparison Maps/Wind_farms_in_Germany.png)
