@@ -70,9 +70,11 @@ In the following, we are going to describe our understanding of the business que
 
 ### 3.1 Solar-Plants
 
-| **Map of potential solar-plants in Germany** | **In comparison: Map of existing solar-plants in Germany** |
-| :---: | :---: | 
-| ![img_3.png](pictures/Maps/map_photovoltaics.png) | ![](pictures/Maps/Germany_PVOUT_mid-size-map_156x220mm-300dpi_v20191205.png) |
+![<img src="pictures/Maps/map_photovoltaics.png" width="100"/>](pictures/Maps/map_photovoltaics.png)
+
+| **Map of potential solar-plants in Germany**  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;        | **Map of existing solar-plants in Germany** |
+| :------------------------: | :---: | 
+| ![img_3.png](pictures/Maps/map_photovoltaics.png) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| ![](pictures/Maps/Germany_PVOUT_mid-size-map_156x220mm-300dpi_v20191205.png) |
 
 ### 3.2 Windmills
 
