@@ -6,12 +6,12 @@ ___
 ___
 
 
-## 1. Idea and Goal:**
+## 1. Idea and Goal:
 
 - Analyse wind and solar data
-- Look at legal requirements as well as meterological data (wind speeds, sunlight hours, etc.) and consisting infrastructure (high voltage lines)
+- Look at legal requirements as well as meteorological data (wind speeds, sunlight hours, etc.) and consisting infrastructure (high voltage lines)
 - Show these locations a map (Highlight the best locations with a colour-ranking)
-- Optional: Calculate the amout energy that can be produced at a specific location
+- Optional: Calculate the amount energy that can be produced at a specific location
 - Optional: Calculate the break even-point
 
 **→ Goal: Recommend ideal locations for solar or wind parks**
@@ -25,26 +25,27 @@ In the following, we are going to describe our understanding of the business que
 
 ### 2.1. Setup Github structure:
 - Issues & Cards on Kanban-Board
-- Create a environment where all group members can work together and stay up-to-date
+- Create an environment where all group members can work together and stay up-to-date
 
 ### 2.2. DataFrame:
-- Find a suitable database, to download relevant meterological data for wind and solar
+- Find a suitable database, to download relevant meteorological data for wind and solar
 - Create a Dataframe, which contains relevant input variables for the machine learning model
-- Link to DataFrame einfügen
 
-### 2.2. Solar-Model: (Sönke & Laura)
->  - Which input-variables for the model: 
->    - Solar: hours of sun
->    - How many hours of sunlight is needed for a solar power plant?
->    -> therefore we choosed the sunhours and the clearness of the sky
->  - What is the output-variable and how is it defined?
->    - Is the location suitable for photovoltaic?
->    - (Beispiel) If the location is better than 60% of the other stations, it is defined as Suitable>- Notebook for Data Preparation: http://tiny.cc/dataprep_tl (link in unserem Github Ornder einfügen)
-- Train different Machine-learning models and fit them with the help of Hyperparametertuning and a cross-validation
-    - Bild einfügen von Boxplot welcher zeigt, welches Modell am Besten war?
-    - Notebook for Data Preparation: code/solarmodel_means.ipynb
+### 2.2. Solar-Model:
+- Which input-variables for the model: 
+  - Solar: hours of sun
+  - How many hours of sunlight is needed for a solar power plant?
+    - Therefore, we chose the hours of sunshine and the clearness of the sky
+- What is the output-variable and how is it defined?
+  - Is the location suitable for photovoltaic?
+  - If the location is better than 60% of the other stations, it is defined as Suitable
+  - Train different Machine-learning models and fit them with the help of Hyperparametertuning and a cross-validation
   
-### 2.3. Wind-Model: (Sönke + Simon)
+    ![solarmodel_mean_comparison.png](pictures/model_comparisons/solarmodel_mean_comparison.png)
+  - We chose the random forest because it performed best
+  - Notebook for Data Preparation: code/solarmodel_means.ipynb
+  
+### 2.3. Wind-Model:
 - Which input-variables for the model: 
   - average wind speed 
 - What is the output-variable and how is it defined?
@@ -53,19 +54,21 @@ In the following, we are going to describe our understanding of the business que
 - Train different Machine-learning models and fit them with the help of Hyperparametertuning and a cross-validation
   - How do we get the most accurate model? 
   - Training the model with the standard deviation input variables results in the highest accuracy
-  - [ Bild einfügen, welches zeigt, dass das Training mit std zur höchsten accuracy führt ]
+
+  ![windmodel_std_mean_comparison.png](pictures/model_comparisons/windmodel_std_mean_comparison.png)
   - -> compare accuracy of different models:
-  -  logistic_regression_train shows the highest accuracy score we still chose to use the random_forest_train because log_reg led to a large number of negatives
-  - [Bild einfügen welches zeigt, welches Modell am Besten war]
+  - logistic_regression_train shows the highest accuracy score we still chose to use the random_forest_train because log_reg led to a large number of negatives
+
+  ![windmodel_std_comparison.png](pictures/model_comparisons/windmodel_std_comparison.png)
   - Notebook for Data Preparation: code/windmodel_deviations.ipynb
 
-### 2.4. Map: (Gabriel + Lena)
+### 2.4. Map:
 - Setup Map:
   - Plot a map of Germany 
   - Plot each location with latitude and longitude on the map
   - Whether a location is suitable for a solar-plant or windmill, it is plotted as a green dot
   - Whether a location is not suitable for a solar-plant or windmill, it is plotted as a red dot
-- Compare the 
+- Compare the plots with maps that show the actual windmills and solar plants in Germany
     
 ### 2.5. Pitch/Presentation:
   - Prepare a Presentation/Pitch to present our task, approach and finding to the other techies at Tech-Labs Düsseldorf
