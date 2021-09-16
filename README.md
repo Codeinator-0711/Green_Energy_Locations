@@ -67,7 +67,7 @@ In the following, we are going to describe our understanding of the business que
   - Plot a map of Germany 
   - Plot each location with latitude and longitude on the map
   - Whether a location is suitable for a solar-plant or windmill, it is plotted as a green dot
-  - Whether a location is not suitable for a solar-plant or windmill, it is plotted as a red dot
+  -Whether a location is not suitable for a solar-plant or windmill, it is plotted as a red dot
 - Compare the plots with maps that show the actual windmills and solar plants in Germany
     
 ### 2.5. Pitch/Presentation:
