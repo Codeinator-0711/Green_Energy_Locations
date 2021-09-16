@@ -74,7 +74,7 @@ In the following, we are going to describe our understanding of the business que
 
 **In comparison: Map of existing solar-plants in Germany**
 
-![](pictures/Maps/Comparison Maps/Germany_PVOUT_mid-size-map_156x220mm-300dpi_v20191205.png)
+![](pictures/Maps/Germany_PVOUT_mid-size-map_156x220mm-300dpi_v20191205.png)
 
 **Map of potential windmills in Germany**
 
@@ -82,6 +82,6 @@ In the following, we are going to describe our understanding of the business que
 
 **In comparison: Map of existing windmills in Germany**
 
-![800px-Windkraftanlagen_in_Deutschland.png)](pictures/Maps/Comparison Maps/800px-Windkraftanlagen_in_Deutschland.png)
+![800px-Windkraftanlagen_in_Deutschland.png)](pictures/Maps/800px-Windkraftanlagen_in_Deutschland.png)
 
-![Wind_farms_in_Germany.png](pictures/Maps/Comparison Maps/Wind_farms_in_Germany.png)
+![Wind_farms_in_Germany.png](pictures/Maps/Wind_farms_in_Germany.png)
