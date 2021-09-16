@@ -68,20 +68,16 @@ In the following, we are going to describe our understanding of the business que
   
 # 3. Achievements:
 
-**Map of potential solar-plants in Germany**
+### 3.1 Solar-Plants
 
-![img_3.png](pictures/Maps/map_photovoltaics.png)
+| **Map of potential solar-plants in Germany** | **In comparison: Map of existing solar-plants in Germany** |
+| :---: | :---: | 
+| ![img_3.png](pictures/Maps/map_photovoltaics.png) | ![](pictures/Maps/Germany_PVOUT_mid-size-map_156x220mm-300dpi_v20191205.png) |
 
-**In comparison: Map of existing solar-plants in Germany**
+### 3.2 Windmills
 
-![](pictures/Maps/Germany_PVOUT_mid-size-map_156x220mm-300dpi_v20191205.png)
-
-**Map of potential windmills in Germany**
-
-![img_7.png](pictures/Maps/map_windmills.png)
-
-**In comparison: Map of existing windmills in Germany**
-
-![800px-Windkraftanlagen_in_Deutschland.png)](pictures/Maps/800px-Windkraftanlagen_in_Deutschland.png)
-
-![Wind_farms_in_Germany.png](pictures/Maps/Wind_farms_in_Germany.png)
+| **Map of potential windmills in Germany** | **In comparison: Map of existing windmills in Germany** | **In comparison: Map of existing windmills in Germany** |
+| :---: | :---: | :---: |
+| ![img_7.png](pictures/Maps/map_windmills.png) | ![800px-Windkraftanlagen_in_Deutschland.png)](pictures/Maps/800px-Windkraftanlagen_in_Deutschland.png)
+ | ![Wind_farms_in_Germany.png](pictures/Maps/Wind_farms_in_Germany.png)
+ |
