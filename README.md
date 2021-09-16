@@ -76,9 +76,7 @@ In the following, we are going to describe our understanding of the business que
 
 **Map of existing solar-plants in Germany**
 
-![img.png](pictures/Maps/img_9.png)
-
-![<img src="pictures/Maps/Germany_PVOUT_mid-size-map_156x220mm-300dpi_v20191205.png" width=100/>](pictures/Maps/Germany_PVOUT_mid-size-map_156x220mm-300dpi_v20191205.png)
+![img.png](pictures/Maps/solar_power_in_germany.png)
 
 ### 3.2 Windmills
 
