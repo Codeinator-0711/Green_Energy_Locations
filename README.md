@@ -74,7 +74,7 @@ In the following, we are going to describe our understanding of the business que
 
 **In comparison: Map of existing solar-plants in Germany**
 
-![Photovoltaik 2012.png](Photovoltaik 2012.png)
+![](Germany_PVOUT_mid-size-map_156x220mm-300dpi_v20191205.png)
 
 **Map of potential windmills in Germany**
 
